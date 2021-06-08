@@ -1,0 +1,10 @@
+color = ["Red", "Black", "Green", "White", "Orange"]
+print("\nOriginal Color: ",color)
+del color[0]
+print("After removing the first color: ",color)
+print()	
+	
+Output:
+	
+Original Color:  ['Red', 'Black', 'Green', 'White', 'Orange']                                                 
+After removing the first color:  ['Black',
