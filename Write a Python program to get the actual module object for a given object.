@@ -1,0 +1,9 @@
+from inspect import getmodule
+from math import sqrt
+print(getmodule(sqrt))
+				 
+	
+Output:
+	
+<module 'math' (built-in)>	
+	
