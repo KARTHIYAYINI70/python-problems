@@ -1,0 +1,7 @@
+x = 30
+print('Value of x is "{}"'.format(x))				 
+	
+Output:
+	
+Value of x is "30" 	
+	
